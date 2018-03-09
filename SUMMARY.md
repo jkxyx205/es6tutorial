@@ -1,7 +1,6 @@
-# 概要
+# Summary
 
-* [描述](README.md)
-* [软件部署]
+* 软件部署
   * [软件架构介绍](deploy-summary.md)
   * [部署nginx](nginx.md)
   * [部署mysql](mysql.md)
