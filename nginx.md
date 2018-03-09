@@ -3,6 +3,7 @@
 3. 修改配置文件`nginx.conf`
 
 **参考设置**
+
 ```conf
 #user nobody;
 worker_processes 1;
