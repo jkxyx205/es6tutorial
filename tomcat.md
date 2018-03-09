@@ -22,6 +22,7 @@ fileServer=http://localhost:3000
 #截图脚本路径
 phantomjs=/Users/rick/jkxyx205/phantomjs-2.1.1-macosx
 
+#建站平台域名
 domain=devyean.com:8000
 ```
 
