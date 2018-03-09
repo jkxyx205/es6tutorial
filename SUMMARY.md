@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [文档介绍](README.md)
+* [软件部署](chapter1.md)
+
