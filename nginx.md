@@ -2,6 +2,7 @@
 2. 解压`nginx`
 3. 修改配置文件`nginx.conf`
 
+**参考设置**
 ```conf
 #user nobody;
 worker_processes 1;
@@ -11,7 +12,6 @@ worker_processes 1;
 #error_log logs/error.log info;
 
 #pid logs/nginx.pid;
-
 
 events {
 worker_connections 1024;
@@ -77,6 +77,12 @@ index index.html index.htm;
 }
 include servers/*;
 }
+```
+
+4. 启动`nginx`
+
+```bash
+    nginx
 ```
 
 
