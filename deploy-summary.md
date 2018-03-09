@@ -20,26 +20,25 @@
 # 2. 静态文件目录结构
 ![](/assets/tree.png)
 
-目录介绍：
-  * gallery_init
+  * **gallery_init**
   
   图库需要同步到平台的图片目录，总共25个分类，有25个文件夹，编号1～25。每个文件夹有对应分类的图片，图片名称为图片标签（关键字）`，`多个关键字用，隔开，比如“`美女 范冰冰.jpg`”。
 点击[http://etmode.com/web/2/gallery](http://etmode.com/web/2/gallery)的按钮`同步图库`后，将会执行同步操作，图库更新完成，tpl->init->gallyer会生成相应的图片，
 
-  * site
+  * **site**
   `新建站点`后，**该**网站产生的相关文件都会存在此目录下。比如发布后的静态页面，快照，全文索引。
   
-  * tpl
-    * footer
+  * **tpl**
+    * **footer**
     
       7种页脚的9种风格8种配色的截图
-    * header
+    * **header**
     
       10种页眉9种风格8种配色的截图
-    * style
+    * **style**
     
       9种风格8种配色7种页脚10种页眉的截图
-    * init
+    * **init**
     
       `14x5`表示 比例是14:5的默认图片
       gallyery:图库文件
