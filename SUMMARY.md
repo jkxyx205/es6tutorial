@@ -1,7 +1,7 @@
 # Summary
 
 * [点研智软部署手册](README.md)
-* \[软件部署\]
+* [\[软件部署\]](ruan-jian-bu-7f725d.md)
   * [软件架构介绍](deploy-summary.md)
   * [部署nginx](nginx.md)
   * [部署mysql](mysql.md)
