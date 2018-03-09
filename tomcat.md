@@ -16,11 +16,8 @@ upload=/Users/rick/jkxyx205/tmp
 #图库待同步的文件
 gallery_init=/Users/rick/jkxyx205/tmp/gallery_init
 
-#文件服务器
+#文件服务器 nginx静态文件服务器
 fileServer=http://localhost:3000
-#fileServer=http://114.55.173.102:3000
-#fileServer=http://192.168.1.94:3000
-#fileServer=http://192.168.1.103:3000
 
 #截图脚本路径
 phantomjs=/Users/rick/jkxyx205/phantomjs-2.1.1-macosx
