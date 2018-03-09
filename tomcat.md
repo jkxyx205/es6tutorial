@@ -28,6 +28,11 @@ domain=devyean.com:8000
 
 4.启动
 
+```bash
+/bin/startup.bat
+```
+
+
 
 
 
