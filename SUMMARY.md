@@ -1,9 +1,8 @@
 # 目录
 
-* [文档介绍](README.md)
 * [软件部署]()
-    * [deploy-summary.md](deploy-summary.md)
-    * [nginx](nginx.md)
-    * [tomcat](tomcat.md)
-    * [mysql](mysql.md)
+    * [软件架构介绍](deploy-summary.md)
+    * [部署nginx](nginx.md)
+    * [部署tomcat](tomcat.md)
+    * [部署mysql](mysql.md)
 
