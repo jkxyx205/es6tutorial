@@ -80,7 +80,7 @@ include servers/*;
 }
 ```
 
-启动`nginx`
+4. 启动`nginx`
 
 ```bash
     nginx
