@@ -26,5 +26,8 @@ phantomjs=/Users/rick/jkxyx205/phantomjs-2.1.1-macosx
 domain=devyean.com:8000
 ```
 
+4.启动
+
+
 
 
