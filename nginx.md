@@ -3,6 +3,7 @@
 3. 修改配置文件`nginx.conf`
 
 ```json
+
 #user  nobody;
 worker_processes  1;
 
