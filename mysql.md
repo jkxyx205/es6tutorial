@@ -5,8 +5,8 @@
 /bin/mysqld
 ```
 
-1. 设置用户名密码
-2. 导入数据`portal.sql`
+3. 设置用户名密码
+4. 导入数据`portal.sql`
 
 
 
