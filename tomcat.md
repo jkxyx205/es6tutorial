@@ -2,9 +2,31 @@
 2. 解压`tomcat`
 3. 部署war
 
-    修改`ROOT.war`中的配置文件`sitemgt.properties`
-    
-    
+   修改`ROOT.war`中的配置文件`sitemgt.properties`
+
+```
+jdbc.url=jdbc:mysql://114.55.173.102:47801/portal?useUnicode=true&characterEncoding=UTF-8
+jdbc.username=root
+jdbc.password=jkxyx205
+
+
+#静态文件路径
+upload=/Users/rick/jkxyx205/tmp
+
+#图库待同步的文件
+gallery_init=/Users/rick/jkxyx205/tmp/gallery_init
+
+#文件服务器
+fileServer=http://localhost:3000
+#fileServer=http://114.55.173.102:3000
+#fileServer=http://192.168.1.94:3000
+#fileServer=http://192.168.1.103:3000
+
+#截图脚本路径
+phantomjs=/Users/rick/jkxyx205/phantomjs-2.1.1-macosx
+
+domain=devyean.com:8000
+```
 
 
 
