@@ -7,7 +7,7 @@
   * sass
   * jQuery 
   * gulp
-  * jquery-plugins ... 
+  * jquery-plugins
   * vue 
 * 后端
   * springmvc
